@@ -2,7 +2,6 @@
 # Milo Net
 
 ## This is the source code behind Milo Net.
-### Visit Milo Net here: https://milonet.netlify.app/
 
 ## Get started
 To start exploring the code, open up `src`
